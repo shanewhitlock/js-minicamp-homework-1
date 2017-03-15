@@ -3,12 +3,17 @@
 ## Instructions
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
-		
+
 	* Variables
+	variables are names that you can assign to any value, or the result of an operation.
 	* Strings
-	* Functions (arguments, `return`)
+	just letters, strings can be concatenated, split, and transformed. Strings have attributes such as length. you can't perform arithmetic operations on strings.
+	* Functions (arguments, `return`)/
+	functions are a set of saved commands that you can use somewhere else in your code. it takes arguments as parameters and can return an answer. For example, say you always have to find the area of a triangle, instead of typing 1/2 base * height everywhere, you could send the base and height to function as arguments and have the area returned to you.
 	* `if` statements
+	ways to make decisions in code. if 'this' then 'that'
 	* Boolean values (`true`, `false`)
+	Can only hold the values true or false. Represent binary 1 and 0 respectively.
 
 
 2. Install Node and NPM.  NPM comes packaged with Node. https://nodejs.org/en/download/
